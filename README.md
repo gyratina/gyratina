@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @gyratina
-- 👀 I’m interested in Discord BOTS
-- 🌱 I’m currently learning C++, Java and Python
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i haven't fun facts.
+
