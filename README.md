@@ -7,6 +7,8 @@ I know enough (I think):
 I'm learning:
 - Dart
 - Java
+- TypeScript
+- Astro
 
 I'm planning to learn:
 - Flutter
