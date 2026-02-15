@@ -1,9 +1,14 @@
 ### not ready yet
 
-I write code in:
+I know enough (I think):
 - Python
+- C
+
+I'm learning:
 - Dart
 - Java
-- C/C++
 
-P.S. _I hate JavaScript so much_
+I'm planning to learn:
+- Flutter
+- C++
+- Godot Engine
