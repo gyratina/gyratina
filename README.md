@@ -5,10 +5,10 @@ I know enough (I think):
 - C
 
 I'm learning:
-- Dart
-- Java
 - TypeScript
 - Astro
+- Dart
+- Java
 
 I'm planning to learn:
 - Flutter
