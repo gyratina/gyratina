@@ -5,8 +5,6 @@ I know enough (I think):
 - C
 
 I'm learning:
-- TypeScript
-- Astro
 - Dart
 - Java
 
