@@ -1,14 +1,12 @@
 ### not ready yet
 
-I know enough (I think):
-- Python
+I'm studying:
+- Python and LlamaIndex
 - C
-
-I'm learning:
 - Dart
 - Java
 
 I'm planning to learn:
 - Flutter
 - C++
-- Godot Engine
+- Godot Engine (I'm still not sure about this)
