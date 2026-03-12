@@ -8,5 +8,3 @@ I'm studying:
 
 I'm planning to learn in the future:
 - Flutter
-- C++
-- Godot Engine (I'm still not sure about this)
