@@ -3,8 +3,10 @@
 I'm studying:
 - Python and LlamaIndex
 - C
-- Dart
 - Java
+- Dart & Flutter
 
 I'm planning to learn in the future:
-- Flutter
+- Rust
+- Godot Engine
+- Go
