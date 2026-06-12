@@ -8,5 +8,6 @@ I'm studying:
 
 I'm planning to learn in the future:
 - Rust
+- Mojo (?)
 - Godot Engine
 - Go
