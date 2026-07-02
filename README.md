@@ -3,6 +3,9 @@ _See my website in bio for more about me._
 
 I think to know:
 - Python (My first ever language)
+- HTML and CSS
+- PHP
+- SQL
 - C (The best)
 - Java (Smells like shi-)
 - ~Dart & Flutter~ (Too verbose)
