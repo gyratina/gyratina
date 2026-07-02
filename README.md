@@ -16,4 +16,4 @@ I'm planning to learn in the future:
 - LlamaIndex and LangChain (Python framworks to build systems with LLM Agents and RAG)
 - Mojo (?)
 - Godot Engine (Cool and best 2D engine?)
-- Go (It seem intersting but idk)
+- Go (It seem interesting but idk)
