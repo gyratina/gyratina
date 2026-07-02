@@ -1,4 +1,5 @@
-### not ready yet
+# Hi! I'm Valerio from Italy!
+_See my website in bio for more about me._
 
 I think to know:
 - Python (My first ever language)
