@@ -1,5 +1,7 @@
 # Hi! I'm Valerio from Italy!
 **See my website [`valerioditommaso.dev`](https://valerioditommaso.dev/en) for more about me.**
+![valerio_di_tommaso_logo](full_logo_blue.svg)
+
 
 I think to know, understand and to work with:
 - Python (My first ever language)
