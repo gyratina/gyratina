@@ -12,7 +12,6 @@ I understand and work with:
 - C (The best)
 - Java (Smells like shi-)
 - Dart & ~Flutter~ (Tried, I learned Dart but dropped Flutter after a while for the verbosity)
-- Cloudflare Pages
 
 I'm planning to learn in the future:
 - Rust (The most important goal at the moment)
