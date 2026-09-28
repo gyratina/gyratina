@@ -3,7 +3,7 @@
 ## Hi! I'm Valerio, a 20yo italian guy who is currently studying computer science at the University of Perugia.
 Thats not the only thing that I have to share with the world about me. For example, I prefer to study alone and outside of the university settings of doing things in an exact way.
 
-I to understand and work with:
+I understand and work with:
 - Python (My first ever language and main)
 - HTML
 - CSS
