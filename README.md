@@ -1,6 +1,6 @@
 ![valerio_di_tommaso_logo](full_logo_blue.svg)
 
-### Hi! I'm Valerio, a 20yo italian guy who is currently studying computer science at the University of Perugia.
+## Hi! I'm Valerio, a 20yo italian guy who is currently studying computer science at the University of Perugia.
 Thats not the only thing that I have to share with the world about me. For example, I prefer to study alone and outside of the university settings of doing things in an exact way.
 
 I to understand and work with:
@@ -27,4 +27,4 @@ I'm planning to learn in the future:
 I use AI generative in programming only to learn and understand what's new to me, because I feel necessary to understand really everything about what I'm doing and I want to do.
 The concepts and the architectures of my project will always be mine, unless I happen to specify otherwise.
 
-#### If you want to discover more about me, visit my website: [valerioditommas.dev](https://valerioditommaso.dev/en)
+### If you want to discover more about me, visit my website: [valerioditommaso.dev](https://valerioditommaso.dev/en)
