@@ -1,7 +1,9 @@
-![valerio_di_tommaso_logo](full_logo_blue.svg)
+![valerio_di_tommaso_logo by Marco Molossi](full_logo_blue.svg)
 
 ## Hi! I'm Valerio, a 20yo italian guy who is currently studying computer science at the University of Perugia.
 Thats not the only thing that I have to share with the world about me. For example, I prefer to study alone and outside of the university settings of doing things in an exact way.
+
+***My logo was created by [Marco Molossi](https://github.com/BudinoSurelySweet), a friend and university classmate of mine.***
 
 I understand and work with:
 - Python (My first ever language and main)
